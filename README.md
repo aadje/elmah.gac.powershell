@@ -5,5 +5,5 @@ Strongly named [Elmah](http://code.google.com/p/elmah/) assembly for in the GAC 
 
 This project was created to automate the deployment of Elmah on sharepoint servers, without including elmah in a custom sharepoint project
 
-Includes Elmah 1.2sp2 
+Includes Elmah version 1.2sp2 
 
