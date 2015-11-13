@@ -8,8 +8,6 @@ This project was created to automate the deployment of Elmah on sharepoint serve
 Includes 
 
 Elmah
-
-
 version     
 1.2sp2 
 
